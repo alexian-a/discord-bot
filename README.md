@@ -1,6 +1,6 @@
 # 🤖 Wicked — Discord Bot
 
-## 🇫🇷 Français
+## Français
 
 ### 📝 Description
 Bot Discord pour la modération et le support du projet **Wicked** (Los Santos Story).
@@ -37,7 +37,7 @@ CLIENT_ID=votre_id_application
 
 ---
 
-## 🇬🇧 English
+## English
 
 ### 📝 Description
 Discord bot for **Wicked** project moderation and support.
